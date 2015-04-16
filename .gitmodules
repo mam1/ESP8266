@@ -1,0 +1,9 @@
+[submodule "ESPlorer"]
+	path = ESPlorer
+	url = https://github.com/4refr0nt/ESPlorer.git
+[submodule "nodemcu-firmware"]
+	path = nodemcu-firmware
+	url = https://github.com/nodemcu/nodemcu-firmware.git
+[submodule "ESP8266-LUA"]
+	path = ESP8266-LUA
+	url = https://github.com/ok1cdj/ESP8266-LUA.git
