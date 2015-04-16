@@ -7,3 +7,6 @@
 [submodule "ESP8266-LUA"]
 	path = ESP8266-LUA
 	url = https://github.com/ok1cdj/ESP8266-LUA.git
+[submodule "esptool"]
+	path = esptool
+	url = https://github.com/themadinventor/esptool.git
